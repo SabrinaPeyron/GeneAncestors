@@ -1,0 +1,10 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Gedcom/obj
+/GedcomTests/obj
+/_NCrunch_GeneAncestors
+/GeneAncestors.v3.ncrunchsolution*
+/README-template.txt
